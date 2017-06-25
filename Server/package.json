@@ -1,0 +1,27 @@
+{
+  "name": "rbxapi",
+  "version": "1.0.0",
+  "description": "RBXRAPLOGIN",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JujharSingh/RBLX-RAP-and-Login-Checker.git"
+  },
+  "author": "Jujhar Singh",
+  "license": "Unlicense",
+  "dependencies": {
+    "express": "^4.15.3",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "bugs": {
+    "url": "https://github.com/JujharSingh/RBLX-RAP-and-Login-Checker/issues"
+  },
+  "homepage": "https://github.com/JujharSingh/RBLX-RAP-and-Login-Checker#readme"
+}
